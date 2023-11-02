@@ -86,7 +86,7 @@ h6 {
 --------------------------------------------------------------*/
 
 #subtitulo {
-  
+  position: fixed;
 }
 
 
@@ -141,6 +141,7 @@ h6 {
     margin-right:400px;
 }
 
+
 .back-to-top i {
   font-size: 28px;
   color: #fff;
@@ -184,14 +185,6 @@ h6 {
   color: #fff;
 }
 
-#topbar2 {
-  height: 40px;
-  font-size: 14px;
-  transition: all 0.5s;
-  color: #fff;
-  padding: 0; 
-}
-
 #topbar .contact-info i a,
 #topbar .contact-info i span {
   padding-left: 5px;
@@ -219,6 +212,18 @@ h6 {
 #topbar .social-links a:hover {
   color: white;
 }
+
+/*--------------------------------------------------------------
+# Top Bar
+--------------------------------------------------------------*/
+#topbar2 {
+  height: 40px;
+  font-size: 14px;
+  transition: all 0.5s;
+  color: #fff;
+  padding: 0; 
+}
+
 
 /*--------------------------------------------------------------
 # Header
