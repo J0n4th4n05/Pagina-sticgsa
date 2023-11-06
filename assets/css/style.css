@@ -131,11 +131,11 @@ h6 {
   margin-right: 650px;
 }
 
-.parra1{
-  color: blue;
+.parra{
+ color: black;
     font-size: 16px;
     background-color: #f0f0f0;
-    margin: 10px;
+    margin: 0px;
     padding: 5px;
     border: 1px solid #000;
     margin-right:400px;
